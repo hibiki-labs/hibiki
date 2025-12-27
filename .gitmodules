@@ -1,0 +1,3 @@
+[submodule "hibiki-docs"]
+	path = hibiki-docs
+	url = https://github.com/abgnpr/hibiki-docs.git
