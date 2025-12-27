@@ -1,3 +1,15 @@
 [submodule "hibiki-docs"]
 	path = hibiki-docs
 	url = https://github.com/abgnpr/hibiki-docs.git
+[submodule "hibiki-console"]
+	path = hibiki-console
+	url = https://github.com/abgnpr/hibiki-console.git
+[submodule "hibiki-engine"]
+	path = hibiki-engine
+	url = https://github.com/abgnpr/hibiki-engine.git
+[submodule "hibiki-infra"]
+	path = hibiki-infra
+	url = https://github.com/abgnpr/hibiki-infra.git
+[submodule "hibiki-ingest"]
+	path = hibiki-ingest
+	url = https://github.com/abgnpr/hibiki-ingest.git
